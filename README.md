@@ -5,7 +5,7 @@
 </br>
 ## Özellikler
 **Ürün Yönetimi, Kullanıcı Yönetimi,Raporlama,Program Yönetimi**</br>
-**1.Ürün Yönetimi:**
+ **1.Ürün Yönetimi:**
  - Ürün ekleme, listeleme, güncelleme ve silme işlemleri. </br>
 **2.Kullanıcı Yönetimi:**
  - Yeni kullanıcı ekleme.
