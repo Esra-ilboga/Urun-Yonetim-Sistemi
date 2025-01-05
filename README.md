@@ -1,5 +1,8 @@
 # Urun-Yonetim-Sistemi
    Bu proje, Zenity kullanılarak Bash betikleriyle geliştirilen kapsamlı bir Ürün (Envanter) Yönetim Sistemidir. Sistem, ürün ekleme, silme, güncelleme ve listeleme gibi temel envanter yönetimi işlemlerini kullanıcı dostu bir arayüzle sunar. Ayrıca, kullanıcı şifre sıfırlama, yeni kullanıcı ekleme ve mevcut kullanıcıları listeleme gibi kullanıcı yönetimi işlemleri de gerçekleştirilir. Bunun yanı sıra, rapor oluşturma, hata kayıtlarını tutma ve program yönetimi gibi ek özellikler sayesinde sistem, hem operasyonel verimliliği artırır hem de hataların izlenebilirliğini sağlar.
+## Youtube video bağlantısı
+[https://youtu.be/hh039DD1n4U]
+</br>
 ## Özellikler
 **1.Ürün Yönetimi:**
  - Ürün ekleme, listeleme, güncelleme ve silme işlemleri. </br>
@@ -42,9 +45,13 @@
 ![image](https://github.com/user-attachments/assets/535ed835-7c92-4f40-9c9a-ca22a59f0107)
 ![image](https://github.com/user-attachments/assets/d8bfff3c-2260-4d95-a35b-5a86f09c6441)
 ![image](https://github.com/user-attachments/assets/6dc9fda6-c9c2-484d-bcc0-97a486346f82)
-
-
-
+### Program Yönetimi
+![image](https://github.com/user-attachments/assets/a8605aad-da1d-4698-9a75-00d801aa1a88)
+![image](https://github.com/user-attachments/assets/59f3fe74-c6b3-4ee8-84c3-7390301383dc)
+![image](https://github.com/user-attachments/assets/fa1c50d2-4265-4fe6-9b57-e353cf0bc01d)
+![image](https://github.com/user-attachments/assets/c521f2d0-753c-4de5-af85-2027ae56ab8b)
+### Çıkış
+![image](https://github.com/user-attachments/assets/5770c8f9-ea11-4278-ba28-dee307084004)
 
 
 
