@@ -34,7 +34,6 @@
 ![image](https://github.com/user-attachments/assets/73ad050c-48b8-4bf9-8b93-679ed7251c68)
 ![image](https://github.com/user-attachments/assets/89053345-b4d8-412c-83d7-d038dab3a6ee)
 ![image](https://github.com/user-attachments/assets/30a3212b-9ab3-468e-beb8-1dc40173214f)
-
 </br>
 ### Rapor İşlemleri
 ![image](https://github.com/user-attachments/assets/f78f0140-58a9-455b-9aaa-4b0d88e68a14)
