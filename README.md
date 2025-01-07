@@ -18,6 +18,7 @@
   $ sudo apt-get install zenity
 ```
 ## Youtube video bağlantısı
++ Gerçeklenen uygulama hakkında detaylı kullanım bilgisi için aşağıdaki youtube linkine tıklayınız lütfen!
 [https://youtu.be/hh039DD1n4U]
 </br>
 ## Özellikler
