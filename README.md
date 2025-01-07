@@ -28,22 +28,22 @@
 ## Seçenek Ekranı
 ![image](https://github.com/user-attachments/assets/c3164a8b-6e38-4ee7-bbf6-d3a295a96a62)
 </br>
-### Ürün İslemleri
+## Ürün İşlemleri
 ![image](https://github.com/user-attachments/assets/b4a6dac4-41d6-463e-a6f5-313881ad4c11)
 ![image](https://github.com/user-attachments/assets/05663d44-935a-418d-9288-403089b6ae70)
 </br>
-### Rapor İşlemleri
+## Rapor İşlemleri
 ![image](https://github.com/user-attachments/assets/f78f0140-58a9-455b-9aaa-4b0d88e68a14)
 ![image](https://github.com/user-attachments/assets/e03dcc68-3ae2-41fb-aac3-abf72a41017a)
 </br>
-### Kullanıcı Yönetimi
+## Kullanıcı Yönetimi
 ![image](https://github.com/user-attachments/assets/2fc84e3d-5b0a-49fb-9197-73951d555ee6)
 ![image](https://github.com/user-attachments/assets/f159c3b9-77e7-40a3-acf5-3baea1ac509d)
 </br>
-### Program Yönetimi
+## Program Yönetimi
 ![image](https://github.com/user-attachments/assets/d29a87a9-5afb-4894-bd51-32ce4ca43ee9)
 </br>
-### Çıkış
+## Çıkış
 ![image](https://github.com/user-attachments/assets/5770c8f9-ea11-4278-ba28-dee307084004)
 </br>
 
