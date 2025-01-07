@@ -34,6 +34,9 @@
 ![image](https://github.com/user-attachments/assets/73ad050c-48b8-4bf9-8b93-679ed7251c68)
 ![image](https://github.com/user-attachments/assets/89053345-b4d8-412c-83d7-d038dab3a6ee)
 ![image](https://github.com/user-attachments/assets/30a3212b-9ab3-468e-beb8-1dc40173214f)
+
+![image](https://github.com/user-attachments/assets/0c489ef4-9a6d-41de-966c-032db66d7370)
+
 </br>
 ### Rapor İslemleri
 ![image](https://github.com/user-attachments/assets/41f425a1-4ed7-4320-a2d7-9a82ccdab72a)
