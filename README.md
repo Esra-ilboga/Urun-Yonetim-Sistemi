@@ -38,7 +38,7 @@
  + Disk alanı bilgisi.
  + Dosya yedekleme.
  + Hata loglarının görüntülenmesi. </br></br>
-**NOT:** Program çalıştırıldığında gerekli dosyalar otomatik olarak oluşturulacaktır. Bunlar depop.csv, kullanici.csv, log.csv ve locked_users.csv dosyalarıdır.</br></br>
+**NOT:** Program çalıştırıldığında gerekli dosyalar otomatik olarak oluşturulacaktır. Bunlar depo.csv, kullanici.csv, log.csv ve locked_users.csv dosyalarıdır.</br></br>
 ## Giris Ekranı
 ![image](https://github.com/user-attachments/assets/a2ec4880-9a03-4014-afd0-18b01f661dbf)
 </br>
