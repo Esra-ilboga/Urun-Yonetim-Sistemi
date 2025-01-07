@@ -5,21 +5,21 @@
 </br>
 ## Özellikler
 **Ürün Yönetimi, Kullanıcı Yönetimi,Raporlama,Program Yönetimi**
- - Aşağıda içerikler detaylandırılmıştır.</br></br>
+ + Aşağıda içerikler detaylandırılmıştır.</br></br>
  **1.Ürün Yönetimi:**
- - Ürün ekleme, listeleme, güncelleme ve silme işlemleri. </br></br>
+ + Ürün ekleme, listeleme, güncelleme ve silme işlemleri. </br></br>
 **2.Kullanıcı Yönetimi:**
- - Yeni kullanıcı ekleme.
- * Kullanıcı bilgilerini güncelleme ve silme.
+ + Yeni kullanıcı ekleme.
+ + Kullanıcı bilgilerini güncelleme ve silme.
  + Kilitli hesapları açma ve şifre sıfırlama.
  + Yönetici yetkileriyle hesap yönetimi. </br></br>
 **3.Raporlama:**
- - Stokta azalan ürünlerin listesi.
- * Minimum stoklara oranların hesaplanması.
+ + Stokta azalan ürünlerin listesi.
+ + Minimum stoklara oranların hesaplanması.
  + Stokların toplam değerlerinin hesaplanması. </br></br>
 **4.Program Yönetimi:**
- - Disk alanı bilgisi.
- * Dosya yedekleme.
+ + Disk alanı bilgisi.
+ + Dosya yedekleme.
  + Hata loglarının görüntülenmesi. </br></br>
 **NOT:** Program çalıştırıldığında gerekli dosyalar otomatik olarak oluşturulacaktır. Bunlar depop.csv, kullanici.csv, log.csv ve locked_users.csv dosyalarıdır.</br></br>
 ## Giris Ekranı
