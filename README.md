@@ -42,11 +42,6 @@
 </br>
 ### Program Yönetimi
 ![image](https://github.com/user-attachments/assets/d29a87a9-5afb-4894-bd51-32ce4ca43ee9)
-
-![image](https://github.com/user-attachments/assets/a8605aad-da1d-4698-9a75-00d801aa1a88)
-![image](https://github.com/user-attachments/assets/59f3fe74-c6b3-4ee8-84c3-7390301383dc)
-![image](https://github.com/user-attachments/assets/fa1c50d2-4265-4fe6-9b57-e353cf0bc01d)
-![image](https://github.com/user-attachments/assets/c521f2d0-753c-4de5-af85-2027ae56ab8b)
 </br>
 ### Çıkış
 ![image](https://github.com/user-attachments/assets/5770c8f9-ea11-4278-ba28-dee307084004)
