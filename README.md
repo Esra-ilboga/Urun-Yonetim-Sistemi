@@ -23,6 +23,8 @@
  + Hata loglarının görüntülenmesi. </br></br>
 **NOT:** Program çalıştırıldığında gerekli dosyalar otomatik olarak oluşturulacaktır. Bunlar depop.csv, kullanici.csv, log.csv ve locked_users.csv dosyalarıdır.</br></br>
 ## Giris Ekranı
+![image](https://github.com/user-attachments/assets/a2ec4880-9a03-4014-afd0-18b01f661dbf)
+
 ![image](https://github.com/user-attachments/assets/cfb931a5-8b1e-4448-8071-0c59abd6b15b)
 ![image](https://github.com/user-attachments/assets/7ae524c6-d6be-440e-9e55-db1840846a2f)
 </br>
