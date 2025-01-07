@@ -39,13 +39,6 @@
 ### Kullanıcı Yönetimi
 ![image](https://github.com/user-attachments/assets/2fc84e3d-5b0a-49fb-9197-73951d555ee6)
 ![image](https://github.com/user-attachments/assets/f159c3b9-77e7-40a3-acf5-3baea1ac509d)
-
-![image](https://github.com/user-attachments/assets/0d392dd2-b59d-4ff2-abfc-5bd40f579764)
-![image](https://github.com/user-attachments/assets/4df759b4-7db6-419f-83c0-3c764eb18f02)
-![image](https://github.com/user-attachments/assets/adaa718a-b6a9-48e5-aba6-9c53366816df)
-![image](https://github.com/user-attachments/assets/535ed835-7c92-4f40-9c9a-ca22a59f0107)
-![image](https://github.com/user-attachments/assets/d8bfff3c-2260-4d95-a35b-5a86f09c6441)
-![image](https://github.com/user-attachments/assets/6dc9fda6-c9c2-484d-bcc0-97a486346f82)
 </br>
 ### Program Yönetimi
 ![image](https://github.com/user-attachments/assets/a8605aad-da1d-4698-9a75-00d801aa1a88)
