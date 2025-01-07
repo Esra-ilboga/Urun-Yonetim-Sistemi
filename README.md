@@ -36,7 +36,7 @@
 ![image](https://github.com/user-attachments/assets/30a3212b-9ab3-468e-beb8-1dc40173214f)
 
 </br>
-### Rapor İslemleri
+### Rapor İşlemleri
 ![image](https://github.com/user-attachments/assets/f78f0140-58a9-455b-9aaa-4b0d88e68a14)
 
 ![image](https://github.com/user-attachments/assets/82c7ca7f-b627-409e-9d35-0d1a2c66d170)
