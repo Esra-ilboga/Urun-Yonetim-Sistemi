@@ -31,6 +31,7 @@
 ### Ürün İslemleri
 ![image](https://github.com/user-attachments/assets/246bdedb-f6fe-43c7-802a-e5c0f17b72d6)
 ![image](https://github.com/user-attachments/assets/aebecb22-f4d6-4627-8e1c-cbd959611237)
+![image](https://github.com/user-attachments/assets/b4a6dac4-41d6-463e-a6f5-313881ad4c11)
 ![image](https://github.com/user-attachments/assets/05663d44-935a-418d-9288-403089b6ae70)
 </br>
 ### Rapor İşlemleri
