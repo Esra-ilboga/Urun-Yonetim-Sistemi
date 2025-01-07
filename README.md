@@ -37,9 +37,6 @@
 </br>
 ### Rapor İşlemleri
 ![image](https://github.com/user-attachments/assets/f78f0140-58a9-455b-9aaa-4b0d88e68a14)
-![image](https://github.com/user-attachments/assets/82c7ca7f-b627-409e-9d35-0d1a2c66d170)
-![image](https://github.com/user-attachments/assets/e77e6166-e189-4640-b881-49af091a8845)
-![image](https://github.com/user-attachments/assets/3e32b2ea-1c7e-4467-9cb2-1b1c478904f1)
 ![image](https://github.com/user-attachments/assets/e03dcc68-3ae2-41fb-aac3-abf72a41017a)
 </br>
 ### Kullanıcı Yönetimi
