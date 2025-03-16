@@ -101,6 +101,45 @@ Program yönetimi için aşağıdaki işlevler mevcuttur:
 
 
 
+# **Görseller**
+
+---
+
+## **Giriş Ekranı**
+![Giriş Ekranı](https://github.com/user-attachments/assets/a2ec4880-9a03-4014-afd0-18b01f661dbf)
+
+---
+
+## **Seçenek Ekranı**
+![Seçenek Ekranı](https://github.com/user-attachments/assets/c3164a8b-6e38-4ee7-bbf6-d3a295a96a62)
+
+---
+
+## **Ürün İşlemleri**
+![Ürün İşlemleri 1](https://github.com/user-attachments/assets/b4a6dac4-41d6-463e-a6f5-313881ad4c11)
+![Ürün İşlemleri 2](https://github.com/user-attachments/assets/05663d44-935a-418d-9288-403089b6ae70)
+
+---
+
+## **Rapor İşlemleri**
+![Rapor İşlemleri 1](https://github.com/user-attachments/assets/f78f0140-58a9-455b-9aaa-4b0d88e68a14)
+![Rapor İşlemleri 2](https://github.com/user-attachments/assets/e03dcc68-3ae2-41fb-aac3-abf72a41017a)
+
+---
+
+## **Kullanıcı Yönetimi**
+![Kullanıcı Yönetimi 1](https://github.com/user-attachments/assets/2fc84e3d-5b0a-49fb-9197-73951d555ee6)
+![Kullanıcı Yönetimi 2](https://github.com/user-attachments/assets/f159c3b9-77e7-40a3-acf5-3baea1ac509d)
+
+---
+
+## **Program Yönetimi**
+![Program Yönetimi](https://github.com/user-attachments/assets/d29a87a9-5afb-4894-bd51-32ce4ca43ee9)
+
+---
+
+## **Çıkış**
+![Çıkış](https://github.com/user-attachments/assets/5770c8f9-ea11-4278-ba28-dee307084004)
 
 
 
