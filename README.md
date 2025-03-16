@@ -19,7 +19,10 @@
 ```bash
   $ sudo apt-get install zenity
 ```
-## Youtube video bağlantısı
+## Youtube Video Bağlantısı
+
+Projeyi kısaca açıkladığım youtube videosuna erişmek için [YotubeLinki](https://youtu.be/hh039DD1n4U) yazan yere tıklayınız.
+
 [https://youtu.be/hh039DD1n4U]
 </br>
 ## Özellikler
