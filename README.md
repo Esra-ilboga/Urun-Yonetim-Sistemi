@@ -1,7 +1,7 @@
 # Ürün Yönetim Sistemi
    Bu proje, Linux(Ubuntu) işletim sisteminde Zenity kullanılarak Bash betikleriyle geliştirilen kapsamlı bir Ürün (Envanter) Yönetim Sistemidir. Sistem, ürün ekleme, silme, güncelleme ve listeleme gibi temel envanter yönetimi işlemlerini kullanıcı dostu bir arayüzle sunar. Ayrıca, kullanıcı şifre sıfırlama, yeni kullanıcı ekleme ve mevcut kullanıcıları listeleme gibi kullanıcı yönetimi işlemleri de gerçekleştirilir. Bunun yanı sıra, rapor oluşturma, hata kayıtlarını tutma ve program yönetimi gibi ek özellikler sayesinde sistem, hem operasyonel verimliliği artırır hem de hataların izlenebilirliğini sağlar.
 ## 🔗 Link
-[Github linki](https://github.com/Esra-ilboga/Urun-Yonetim-Sistemi.git)
+Projenin [Github linki](https://github.com/Esra-ilboga/Urun-Yonetim-Sistemi.git) 
 ## Zenity Kontrol ve Kurulum
 + Zenity'nin yüklü olup olmadığını ve sistemdeki konumunu kontrol etmek.
 ```bash
@@ -20,11 +20,7 @@
   $ sudo apt-get install zenity
 ```
 ## Youtube Video Bağlantısı
-
 Projeyi kısaca açıkladığım youtube videosuna erişmek için [YotubeLinki](https://youtu.be/hh039DD1n4U) yazan yere tıklayınız.
-
-[https://youtu.be/hh039DD1n4U]
-</br>
 ## Özellikler
 **Ürün Yönetimi, Kullanıcı Yönetimi,Raporlama,Program Yönetimi**
  + Aşağıda içerikler detaylandırılmıştır.</br></br>
