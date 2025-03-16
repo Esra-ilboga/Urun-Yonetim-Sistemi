@@ -21,25 +21,58 @@ Projenin [Github linki](https://github.com/Esra-ilboga/Urun-Yonetim-Sistemi.git)
 ```
 ## Youtube Video Bağlantısı
 Projeyi kısaca açıkladığım youtube videosuna erişmek için [YotubeLinki](https://youtu.be/hh039DD1n4U) yazan yere tıklayınız.
-## Özellikler
-**Ürün Yönetimi, Kullanıcı Yönetimi,Raporlama,Program Yönetimi**
- + Aşağıda içerikler detaylandırılmıştır.</br></br>
- **1.Ürün Yönetimi:**
- + Ürün ekleme, listeleme, güncelleme ve silme işlemleri. </br></br>
-**2.Kullanıcı Yönetimi:**
- + Yeni kullanıcı ekleme.
- + Kullanıcı bilgilerini güncelleme ve silme.
- + Kilitli hesapları açma ve şifre sıfırlama.
- + Yönetici yetkileriyle hesap yönetimi. </br></br>
-**3.Raporlama:**
- + Stokta azalan ürünlerin listesi.
- + Minimum stoklara oranların hesaplanması.
- + Stokların toplam değerlerinin hesaplanması. </br></br>
-**4.Program Yönetimi:**
- + Disk alanı bilgisi.
- + Dosya yedekleme.
- + Hata loglarının görüntülenmesi. </br></br>
-**NOT:** Program çalıştırıldığında gerekli dosyalar otomatik olarak oluşturulacaktır. Bunlar depo.csv, kullanici.csv, log.csv ve locked_users.csv dosyalarıdır.</br></br>
+## **Ürün Yönetimi Sistemi Özellikleri**
+
+Bu sistem, aşağıdaki ana modülleri ve işlevleri içermektedir:
+
+---
+
+### **1. Ürün Yönetimi**
+Ürünler ile ilgili aşağıdaki işlemleri gerçekleştirebilirsiniz:
+
+- **Ürün Ekleme:** Yeni ürünler sisteme eklenebilir.
+- **Ürün Listeleme:** Mevcut ürünler listelenebilir.
+- **Ürün Güncelleme:** Var olan ürünlerin bilgileri güncellenebilir.
+- **Ürün Silme:** İstenmeyen ürünler sistemden silinebilir.
+
+---
+
+### **2. Kullanıcı Yönetimi**
+Kullanıcılar ile ilgili işlemler şu şekildedir:
+
+- **Yeni Kullanıcı Ekleme:** Sisteme yeni kullanıcılar eklenebilir.
+- **Kullanıcı Bilgilerini Güncelleme:** Mevcut kullanıcıların bilgileri güncellenebilir.
+- **Kullanıcı Silme:** Kullanıcılar sistemden silinebilir.
+- **Kilitli Hesapları Açma ve Şifre Sıfırlama:** Kilitlenmiş hesaplar açılabilir ve şifreler sıfırlanabilir.
+- **Yönetici Yetkileriyle Hesap Yönetimi:** Yönetici, tüm kullanıcı hesapları üzerinde yönetim yapabilir.
+
+---
+
+### **3. Raporlama**
+Sistem, çeşitli raporlama işlevlerine sahiptir:
+
+- **Stokta Azalan Ürünler:** Stokları azalan ürünler listelenebilir.
+- **Minimum Stok Oranı Hesaplama:** Ürünlerin minimum stok seviyelerine oranlar hesaplanabilir.
+- **Toplam Stok Değeri Hesaplama:** Tüm ürünlerin stok değerleri hesaplanabilir.
+
+---
+
+### **4. Program Yönetimi**
+Program yönetimi için aşağıdaki işlevler mevcuttur:
+
+- **Disk Alanı Bilgisi:** Sistem, kullanılan ve boş disk alanı bilgilerini gösterir.
+- **Dosya Yedekleme:** Sistemdeki dosyalar yedeklenebilir.
+- **Hata Loglarının Görüntülenmesi:** Sistem hataları kaydedilir ve görüntülenebilir.
+
+---
+
+### **Notlar**
+- Program çalıştırıldığında, gerekli dosyalar **otomatik olarak oluşturulacaktır**. Bu dosyalar şunlardır:
+  - `depo.csv` - Ürünler ve stok bilgileri.
+  - `kullanici.csv` - Kullanıcı bilgileri.
+  - `log.csv` - Hata ve işlem logları.
+  - `locked_users.csv` - Kilitli kullanıcılar bilgisi.
+
 ## Giris Ekranı
 ![image](https://github.com/user-attachments/assets/a2ec4880-9a03-4014-afd0-18b01f661dbf)
 </br>
